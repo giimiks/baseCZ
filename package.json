@@ -1,0 +1,16 @@
+{
+  "name": "base-czech",
+  "version": "0.0.1",
+  "description": "A simple function that converts decimal numbers to a czech alphabet based number base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base",
+    "javascript",
+    "czechia"
+  ],
+  "author": "giimiks",
+  "license": "ISC"
+}
